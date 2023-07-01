@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed:wght@400;700;900&display=swap');
+
+
+
+*,
+*:before,
+*:after {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+:root {
+	--red: hsl(359, 100%, 68%);
+	--dark-grayish-blue: hsl(236, 26%, 19%);
+	--grayish-blue: hsl(231, 7%, 50%);
+	--light-grayish-blue: hsl(220, 15%, 60%);
+	--light-gray: hsl(0, 4%, 95%);
+}
+html {
+	font-size: 18px;
+}
+body {
+	max-width: 1440px;
+	margin: auto;
+	font-family: 'Barlow', sans-serif;
+}
+h1, 
+h2,
+button,
+a {
+	font-family: 'Barlow Condensed', sans-serif;
+}
+picture {
+	display: block;
+}
+img {
+	display: block;
+	width: 100%;
+	object-fit: cover;
+}
+ul {
+	list-style-type: none;
+}
+a {
+	font-size: clamp(16px, 2vw, 18px);
+	text-decoration: none;
+}
+
+/*
+# Front-end Style Guide
+
+--red: hsl(0, 100%, 68%);
+	--dark-grayish-blue: hsl(230, 11%, 40%);
+	--grayish-blue: hsl(231, 7%, 65%);
+	--light-grayish-blue: hsl(207, 33%, 95%);
+## Typography
+
+### Body Copy
+
+- Font size: 18px
+
+### Headings, Call-to-actions, Navigation
+
+- Family: [Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed)
+- Weights: 400, 700
+
+### Body
+
+- Family: [Barlow](https://fonts.google.com/specimen/Barlow)
+- Weights: 400
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed:ital,wght@0,400;1,700&display=swap');
+*/
+
