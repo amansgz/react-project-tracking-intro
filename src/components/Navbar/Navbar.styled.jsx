@@ -84,7 +84,7 @@ export const ListLinks = styled.ul`
 			border-radius: 50%;
 			background-color: var(--light-gray);
 			top: 5px;
-			left: 120px;
+			left: 95px;
 		}
 	}
 	li:nth-child(4) a {
