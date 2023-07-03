@@ -25,9 +25,12 @@ export const Wrapper = styled.div`
 	align-self: flex-start;	
 	padding: 2em;
 
+	margin-top: 5em;
+
 	@media (min-width: 992px) {
 		width: 50vw;
 		align-self: center;
+		margin-top: 0;
 	}
 `
 

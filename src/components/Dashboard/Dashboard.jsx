@@ -6,7 +6,7 @@ const Dashboard = () => (
 
 	<StyledDashboard>
 		<ImageContainer>
-			<img src={illustrationDevices} alt=""/>
+			<img src={illustrationDevices} alt="devices"/>
 		</ImageContainer>
 
 		<Wrapper>

@@ -1,20 +1,14 @@
+import Header from "./components/Layout/Header";
 import Dashboard from "./components/Dashboard/Dashboard";
 
 const App = () => (
-
-  <main>
-    <Dashboard />
-  </main>
+  <div>
+    <Header />
+    <main>
+      <Dashboard />
+    </main>
+  </div>  
 
 );
 
 export default App;
-
-/*
-Product
-  Features
-  Pricing
-  Login
-
- 
-*/
