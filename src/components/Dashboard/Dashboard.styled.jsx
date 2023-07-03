@@ -24,7 +24,6 @@ export const ImageContainer = styled.div`
 export const Wrapper = styled.div`
 	align-self: flex-start;	
 	padding: 2em;
-
 	margin-top: 5em;
 
 	@media (min-width: 992px) {
@@ -35,7 +34,7 @@ export const Wrapper = styled.div`
 `
 
 export const Product = styled.h1`
-	font-size: clamp(12px, 1vw, 16px);
+	font-size: clamp(12px, 1.2vw, 18px);
 	font-weight: 400;
 	text-transform: uppercase;
 	color: var(--light-grayish-blue);
