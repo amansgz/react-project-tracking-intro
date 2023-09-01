@@ -1,4 +1,4 @@
-# 👩‍💻 Project tracking intro component solution
+# 👩‍💻 Project tracking intro component 
 
 
 ## The challenge
