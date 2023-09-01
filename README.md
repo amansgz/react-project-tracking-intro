@@ -1,8 +1,4 @@
-# 👩‍💻 Frontend Mentor - Project tracking intro component solution
-
-Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-This is a solution for [Project tracking intro component](https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e) challenge.
+# 👩‍💻 Project tracking intro component solution
 
 
 ## The challenge
@@ -19,14 +15,19 @@ Users should be able to:
 - Styled-components
 - Mobile-first workflow
 
+
+<div>
+  <h3>
+    <a href= "https://react-project-tracking-intro.netlify.app/">
+      Live site
+    </a>
+    <span> | </span>
+    <a href= "https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e">
+      Challenge
+    </a>
+  </h3>
+</div>
+
 ![preview sceenshot](./public/preview.png)
 
-## Live site solution
-
-[Live site](https://react-project-tracking-intro.netlify.app/) hosted on Netlify.
-
-## Author
-
-- Frontend Mentor - [@amansgz](https://www.frontendmentor.io/profile/amansgz)
-
-Join to [Frontend Mentor Discord community](https://discord.gg/UAfh3qzhYb)
+This application/site was created as a submission to <a href= "https://www.frontendmentor.io/">Frontend Mentor Challenges</a> 
